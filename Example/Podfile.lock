@@ -1,0 +1,16 @@
+PODS:
+  - SFDefine (0.1.0)
+
+DEPENDENCIES:
+  - SFDefine (from `../`)
+
+EXTERNAL SOURCES:
+  SFDefine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SFDefine: ea212beab6f04545cb692e4bce4a941d7c221370
+
+PODFILE CHECKSUM: 76b3eb5fe4e90b18f4a1746d11ccc3b4aa22654b
+
+COCOAPODS: 1.11.2

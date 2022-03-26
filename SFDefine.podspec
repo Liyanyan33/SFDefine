@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SFDefine'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SFDefine.'
+  s.summary          = 'SFDefine is a respository about iOS'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,19 +18,19 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+SFDefine is a respository about iOS by liyanyan33
                        DESC
 
-  s.homepage         = 'https://github.com/19053601/SFDefine'
+  s.homepage         = 'https://github.com/Liyanyan33/SFDefine.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '19053601' => '1143386318@qq.com' }
-  s.source           = { :git => 'https://github.com/19053601/SFDefine.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Liyanyan33/SFDefine.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'SFDefine/Classes/**/*'
+  s.source_files = 'SFDefine/Classes/*.{h,m}'
   
   # s.resource_bundles = {
   #   'SFDefine' => ['SFDefine/Assets/*.png']

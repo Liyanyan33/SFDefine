@@ -1,0 +1,22 @@
+{
+  "name": "SFDefine",
+  "version": "0.1.0",
+  "summary": "SFDefine is a respository about iOS",
+  "description": "SFDefine is a respository about iOS by liyanyan33",
+  "homepage": "https://github.com/Liyanyan33/SFDefine.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "19053601": "1143386318@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Liyanyan33/SFDefine.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SFDefine/Classes/*.{h,m}"
+}

@@ -1,0 +1,6 @@
+framework module Pods_SFDefine_Example {
+  umbrella header "Pods-SFDefine_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
